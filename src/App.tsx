@@ -15,7 +15,7 @@ export function App() {
           <Box maxWidth="8xl" margin="auto" p={5}>
             <TopBar />
             <Heading mb="20px" mt="30px">
-              Todo List
+              Todo List V1
             </Heading>
             <TodoAdd />
             <TodoList />
